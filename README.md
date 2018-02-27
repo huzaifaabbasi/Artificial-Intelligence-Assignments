@@ -1,13 +1,13 @@
-#Assignment 1
-##Huzaifa Abbasi - 14CO216
+# Assignment 1
+## Huzaifa Abbasi - 14CO216
 In this assignment, MNIST dataset of handwritten digits has been classified using Neural Networks.
 
-###Neural Network structure:
+### Neural Network structure:
 Input Layer - 784 neurons (1 for each pixel)
 Hidden Layer - 784 neuron
 Output Layer - 10 neurons
 
-###Parameters
+### Parameters
 Batch Size - 128
 Epochs - 20
 Loss function - Categorical Cross Entropy
